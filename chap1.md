@@ -1,0 +1,1 @@
+Le hobbit aimait les visites. Le tunnel s'enfonçait assez loin, mais pas tout à fait en droite ligne, dans le flanc de la colline - La Colline, comme tout le monde l'appelait à des lieues alentour- et l'on y voyait maintes petites portes rondes, d'abord sur un côté, puis sur un autre.
