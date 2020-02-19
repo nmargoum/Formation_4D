@@ -2,3 +2,5 @@ This is the 1st line
 Hello World
 Dans un trou vivait un hobbit. Ce n'était pas un trou déplaisant, sale et humide, rempli de bouts de vers et d'une atmosphère suintante, non plus qu'un trou sec, sablonneux, sans rien pour s'asseoir ni sur quoi manger: c'était un trou de hobbit, ce qui implique le confort.
 Cette porte ouvrait sur un vestibule en forme de tube, comme un tunnel, un tunnel très confortable, sans fumée, aux murs lambrissés, au sol dallé et garni de tapis ; il était meublé de chaises cirées et de quantité de patères pour les chapeaux et les manteaux.
+Le hobbit aimait les visites. Le tunnel s'enfonçait assez loin, mais pas tout à fait en droite ligne, dans le flanc de la colline - La Colline, comme tout le monde l'appelait à des lieues alentour- et l'on y voyait maintes petites portes rondes, d'abord sur un côté, puis sur un autre.
+
